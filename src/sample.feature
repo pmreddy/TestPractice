@@ -1,5 +1,5 @@
 @test
-Feature: Login Action
+Feature: Login test
 
   Scenario: Display list of flights
     Given User is on southhallHome Page
