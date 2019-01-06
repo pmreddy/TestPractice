@@ -1,4 +1,4 @@
-
+@test
 Feature: Login Action
 
   Scenario: Display list of flights
